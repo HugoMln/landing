@@ -1,0 +1,26 @@
+.banner {
+	background-image: url("../IMAGES BAR/BAR DE FOND.jpg");
+	height: 65vh;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.banner h1 {
+	color: #ca6702;
+	text-align: center;
+	font-size: 48px; 
+}
+
+.banner h2 {
+	color: #e26d5c;
+	font-size: 36px;
+}
+
+.banner p {
+	width: 800px
+	text-align: center;
+}

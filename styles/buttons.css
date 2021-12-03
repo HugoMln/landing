@@ -1,0 +1,22 @@
+h1 {
+	color: #ca6702;
+}
+h2 {
+	color: #9b2226;
+}
+ 
+
+
+.btn {
+	padding: 12px;
+	border-radius: 7px;
+	background-color: #d9ed92;
+	border: blue 1px solid;
+	transition: 1s;
+	color: #168aad;
+}
+
+.btn:hover {
+	background-color: #d9ed92;
+	color: #fec5bb;
+}

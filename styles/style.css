@@ -20,3 +20,8 @@ body {
 a {
 	text-decoration: none;
 }
+
+.typeform {
+	text-align: center;
+	margin: 48px 0;
+}
